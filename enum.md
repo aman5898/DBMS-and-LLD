@@ -130,5 +130,5 @@ This will return:
 | 2        | Phone        | shipped  |
 
 
-### Beautiful Article of Enum 
+### Beautiful Article on Enum 
 https://www.scaler.com/topics/enums-in-mysql/
