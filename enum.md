@@ -1,4 +1,4 @@
-# Using ENUM in MySQL and Deciding Primary Key for a Mapping Table
+# Using ENUM in MySQL
 
 ## ENUM in MySQL
 
